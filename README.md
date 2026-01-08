@@ -2,7 +2,7 @@
 
 ## Description
 
-Detection of Number Plate using the robust and state-of-art Yolov8 model, latest in the Yolo series which is trained specially on the Indian Lisence Plates. Recognition is facilitated by the Google Vision API that offers multi-lingual support enabling accurate identification of the non-standard text that is illegaly included on the Lisence Plates. Additionally, a Flask API has been integrated offering scalability.
+Detection of Number Plate using the robust and state-of-art Yolov8 model, latest in the Yolo series which is trained specially on the Indian License Plates. Recognition is facilitated by the Google Vision API that offers multi-lingual support enabling accurate identification of the non-standard text that is illegaly included on the License Plates. Additionally, a Flask API has been integrated offering scalability.
 
 ## Steps for implementation
 
